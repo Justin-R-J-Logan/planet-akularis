@@ -286,6 +286,3 @@ data:extend {
     }
   }
 }
-
-
-APS.add_planet{name = "akularis", filename = "__planet-akularis__/akularis.lua", technology = "planet-discovery-akularis"}
